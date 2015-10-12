@@ -1,0 +1,219 @@
+ 
+├─Day01-Python自动化开发基础 语言基础流程控制
+│      【第10课】10 python s8day1 理解ASSIC Unicode UTF-8编码.mp4
+│      【第11课】11 python s8day1 使用和导入模块.mp4
+│      【第12课】12 python s8day1 用户交互和格式化输出.mp4
+│      【第13课】13 python s8day1 流程控制if for循环.mp4
+│      【第14课】14 python s8day1 while 循环基中断控制.mp4
+│      【第15课】15 python s8day1 作业需求.mp4
+│      【第1课】01 python s8day1 开课介绍.mp4
+│      【第2课】02 python s8day1 学生介绍.mp4
+│      【第3课】03 python s8day1 课程内容介绍.mp4
+│      【第4课】04 python s8day1 Python的发展.mp4
+│      【第5课】05 python s8day1 Python特性介绍及与其它语言对比.mp4
+│      【第6课】06 python s8day1 Python安装及环境准备.mp4
+│      【第7课】07 python s8day1 编程风格要求.mp4
+│      【第8课】08 python s8day1 Python的数据类型和运算符.mp4
+│      【第9课】09 python s8day1 单行和多行注释.mp4
+│      
+├─Day02-Python自动化开发基础 列表-字典-IO处理
+│      【第10课】11 python s8day2 购物车程序练习.mp4
+│      【第11课】10 python s8day2 编写类似sed命令的文件替换脚本.mp4
+│      【第12课】12 python s8day2 字典的语法和使用.mp4
+│      【第13课】13 python s8day2 字典的详细用法及深浅copy的原理.mp4
+│      【第14课】14 python s8day2 集合及关系测试.mp4
+│      【第15课】15 python s8day2 员工信息表作业.mp4
+│      【第1课】01 python s8day2 课前注意事项.mp4
+│      【第2课】02 python s8day2 上节作业讲解.mp4
+│      【第3课】03 python s8day2 文件的数据处理.mp4
+│      【第4课】04 python s8day2 file的方法.mp4
+│      【第5课】05 python s8day2 如何最优的实时处理增量日志.mp4
+│      【第6课】06 python s8day2 字符串处理.mp4
+│      【第7课】07 python s8day2 字符串处理2.mp4
+│      【第8课】08 python s8day2 列表的使用.mp4
+│      【第9课】09 python s8day2 列表index的用法.mp4
+│      
+├─Day03-Python自动化开发基础 函数-模块-正则-迭代器
+│      【第10课】10 python s8day3 yield和三元运算以及lambda表达式.mp4
+│      【第11课】11 python s8day3 内置函数（一）.mp4
+│      【第12课】12 python s8day3 内置函数（二）.mp4
+│      【第13课】13 python s8day3 内置函数（三）.mp4
+│      【第14课】14 python s8day3 内置函数（四）.mp4
+│      【第15课】15 python s8day3 内置函数（五）反射.mp4
+│      【第16课】16 python s8day3 random生成验证码.mp4
+│      【第17课】17 python s8day3 MD5加密.mp4
+│      【第18课】18 python s8day3 序列化和反序列化以及json操作.mp4
+│      【第19课】19 python s8day3 正则表达式和time模块以及作业.mp4
+│      【第1课】01 python s8day3 上节作业介绍.mp4
+│      【第2课】02 python s8day3 eclipse的使用.mp4
+│      【第3课】03 python s8day3 模块和模块的常用方法.mp4
+│      【第4课】04 python s8day3 函数式编程（一）.mp4
+│      【第5课】05 python s8day3 函数式编程（二）.mp4
+│      【第6课】06 python s8day3 函数式编程（三）.mp4
+│      【第7课】07 python s8day3 心灵鸡汤.mp4
+│      【第8课】08 python s8day3 函数式编程（四）.mp4
+│      【第9课】09 python s8day3 yield的使用.mp4
+│      
+├─Day04-Python自动化开发基础 装饰器-异常处理-面向对象编程
+│      【第10课】10 python s8day4 装饰器思考题.mp4
+│      【第11课】11 python s8day4 类和对象.mp4
+│      【第12课】12 python s8day4 静态字段.mp4
+│      【第13课】13 python s8day4 静态方法.mp4
+│      【第14课】14 python s8day4 property装饰器.mp4
+│      【第15课】15 python s8day4 为什么要使用静态方法.mp4
+│      【第16课】16 python s8day4 面向对象和函数式编程的选择一.mp4
+│      【第17课】17 python s8day4 面向对象和函数式编程的选择二.mp4
+│      【第18课】18 python s8day4 面向对象和函数式编程的选择三.mp4
+│      【第19课】19 python s8day4 私有方法和私有字段.mp4
+│      【第1课】01 python s8day4 来一碗心灵鸡汤.mp4
+│      【第20课】20 python s8day4 只读特性和只写特性.mp4
+│      【第21课】21 python s8day4 析构函数和特殊的__call__方法.mp4
+│      【第22课】22 python s8day4 析构函数和__call__方法解疑.mp4
+│      【第23课】23 python s8day4 类的继承.mp4
+│      【第24课】24 python s8day4 经典类和新式类的区别.mp4
+│      【第25课】25 python s8day4 接口的定义和抽象类以及抽象方法.mp4
+│      【第26课】26 python s8day4 异常处理流程一.mp4
+│      【第27课】27 python s8day4 异常处理流程二.mp4
+│      【第28课】28 python s8day4 自定义异常和手动触发异常.mp4
+│      【第29课】29 python s8day4 作业.mp4
+│      【第2课】02 python s8day4 上节作业分析.mp4
+│      【第3课】03 python s8day4 上节内容回顾.mp4
+│      【第4课】04 python s8day4 反射的应用一.mp4
+│      【第5课】05 python s8day4 反射的应用二.mp4
+│      【第6课】06 python s8day4 装饰器一.mp4
+│      【第7课】07 python s8day4 装饰器二.mp4
+│      【第8课】08 python s8day4 装饰器三.mp4
+│      【第9课】09 python s8day4 装饰器四.mp4
+│      
+├─Day05-Python自动化开发基础 socket网络编程
+│      【第10课】10 python操作mysql之fetchone和获取自增ID.mp4
+│      【第11课】11 三层架构之公共层.mp4
+│      【第12课】12  三层架构之model层和UI层.mp4
+│      【第13课】13 三层架构之配置文件.mp4
+│      【第14课】14 ocket基本流程.mp4
+│      【第15课】15 客户端和服务端的交互.mp4
+│      【第16课】16 SocketServer实现异步多线程服务端.mp4
+│      【第17课】17 SocketServer上传文件简介.mp4
+│      【第18课】18 python s8day5 作业.mp4
+│      【第1课】01 python s8day5 上节作业.mp4
+│      【第2课】02 python s8day5 优秀作业展示.mp4
+│      【第3课】03 python s8day5 上节内容回顾.mp4
+│      【第4课】04 python s8day5 本节内容介绍.mp4
+│      【第5课】05  mysql的基本操作.mp4
+│      【第6课】06 python操作mysql之查询.mp4
+│      【第7课】07  python操作mysql之插入数据.mp4
+│      【第8课】08 python操作mysql之批量插入数据.mp4
+│      【第9课】09 python操作mysql之批量获取字典类型数据.mp4
+│      
+├─Day06-Python自动化开发基础 FTP上传和多线程开发
+│      【第1课】01 python s8day6 上节作业状况.mp4
+│      【第2课】02 python s8day6 上节作业和三层架构回顾.mp4
+│      【第3课】03 python s8day6  上期内容回顾一.mp4
+│      【第4课】04 python s8day6  上期内容回顾二.mp4
+│      【第5课】05 python s8day6  FTP服务器上传解析一.mp4
+│      【第6课】06 python s8day6  FTP服务器上传解析二.mp4
+│      【第7课】07 python s8day6  应用程序和进程以及线程的分析一.mp4
+│      【第8课】08 python s8day6  应用程序和进程以及线程的分析二.mp4
+│      【第9课】09 python s8day6  多线程开发之创建线程.mp4
+│      
+├─Day07-Python自动化开发基础 多线程多进程及主机管理
+│      【第1课】01 python s8day7 课前牛B分享.mp4
+│      【第2课】02 python s8day7 上节内容回顾.mp4
+│      【第3课】03 python s8day7 多进程的使用.mp4
+│      【第4课】04 python s8day7 子进程与父进程的关系.mp4
+│      【第5课】05 python s8day7 进程间的内存同步方法queue.mp4
+│      【第6课】06 python s8day7 进程间的内存同步方法manager.mp4
+│      【第7课】07 python s8day7 通过Pool产生多进程.mp4
+│      【第8课】08 python s8day7 通过Pool产生多进程2.mp4
+│      【第9课】09 python s8day7 开发审计堡垒机.mp4
+│      
+├─Day08-Python自动化开发基础 分布式监控系统开发实战
+│      【第1课】01 python s8day8 作业与课前鸡汤.mp4
+│      【第2课】02 python s8day8 分布式监控开发需求设计.mp4
+│      【第3课】03 python s8day8  Redis的使用.mp4
+│      【第4课】04 python s8day8  Redis订阅和发布功能.mp4
+│      【第5课】05 python s8day8  Redis订阅和发布功能2.mp4
+│      
+├─Day09-Python自动化开发基础 HTML开发基础
+│      【第1课】01 s8day9 上节回顾和心灵鸡汤.mp4
+│      【第2课】02 s8day9 HTML概要.mp4
+│      【第3课】03 s8day9 Http请求流程.mp4
+│      【第4课】04 s8day9 HTML代码结构分析.mp4
+│      【第5课】05 s8day9 HTML之块级标签和内联标签.mp4
+│      【第6课】06 s8day9 HTML之p和br以及a标签.mp4
+│      【第7课】07 s8day9 HTML之h和select标签.mp4
+│      【第8课】08 s8day9 HTML之input系列标签.mp4
+│      【第9课】09 s8day9 HTML之form表单.mp4
+│      
+├─Day10-Python自动化开发基础 JavaScript开发基础
+│      【第1课】01 py s8 day10 上节作业情况.mp4
+│      【第2课】02 py s8 day10 上节内容回顾以及作业分析一.mp4
+│      【第3课】03 py s8 day10 上节内容回顾以及作业分析二.mp4
+│      【第4课】04 py s8 day10 JS基础之js文件存放位置.mp4
+│      【第5课】05 py s8 day10 JS基础之变量和函数.mp4
+│      【第6课】06 py s8 day10 JS基础之自执行函数.mp4
+│      【第7课】07 py s8 day10 js基础之for循环.mp4
+│      【第8课】08 py s8 day10 迟来的心灵鸡汤.mp4
+│      【第9课】09 py s8 day10 DOM编程之选择器.mp4
+│      
+├─Day11-Python自动化开发基础 Django框架基础
+│      【第1课】01 s8day11  上节作业和本节内容概述.mp4
+│      【第2课】02 s8day11  python web程序的本质.mp4
+│      【第3课】03 s8day11  自定义python web框架.mp4
+│      【第4课】04 s8day11  MVC和MTV的概念和区别.mp4
+│      【第5课】05 s8day11  Django框架揭秘.mp4
+│      【第6课】06 s8day11  Django的路由系统一.mp4
+│      【第7课】07 s8day11  Django的路由系统二.mp4
+│      【第8课】08 s8day11  Django的路由系统三.mp4
+│      【第9课】09 s8day11  Django的Model创建数据库表一.mp4
+│      
+├─Day12-Python自动化开发基础 Django框架中级编程
+│      【第1课】01 s8day12  上节作业概述.mp4
+│      【第2课】02 s8day12  上节作业实现一.mp4
+│      【第3课】03 s8day12  上节作业实现二.mp4
+│      【第4课】04 s8day12  上节内容回顾.mp4
+│      【第5课】05 s8day12  Model连表操作一.mp4
+│      
+├─Day13-python自动化开发基础 Django框架高级编程
+│      【第1课】01 s8day13  上节作业简介.mp4
+│      【第2课】02 s8day13  本节内容介绍和上节回顾一.mp4
+│      【第3课】03 s8day13  本节内容介绍和上节回顾二.mp4
+│      【第4课】04 s8day13  Django自定义分页一.mp4
+│      【第5课】05 s8day13  Django自定义分页二.mp4
+│      【第6课】06 s8day13  Django自定义分页三.mp4
+│      【第7课】07 s8day13  Django自定义分页四.mp4
+│      【第8课】08 s8day13  Session剖析和应用.mp4
+│      【第9课】09 s8day13  Django中session的运行机制.mp4
+│      
+├─Day14-python自动化开发基础 项目实战BBS
+│      【第1课】01 s8day14  上节作业答疑之装饰器的使用.mp4
+│      【第2课】02 s8day14  自定义装饰器功能扩展.mp4
+│      【第3课】03 s8day14  web常用功能分享.mp4
+│      【第4课】04 s8day14  BBS功能分析和介绍.mp4
+│      【第5课】05 s8day14  BBS功能之点赞.mp4
+│      
+├─Day15-Python 项目实战_cmdb
+│      【第1课】01 s8day15  上节作业.mp4
+│      【第2课】02 s8day15  自动化之路和CMDB的地位.mp4
+│      【第3课】03 s8day15  CMDB之puppet采集数据方式.mp4
+│      【第4课】04 s8day15  CMDB之自定义python插件采集数据方式.mp4
+│      【第5课】05 s8day15  CMDB之django实现api.mp4
+│      
+├─Day16-Python自动化开发基础 项目实战-监控系统
+│      【第1课】01 s8day16 本节内容简介.mp4
+│      【第2课】02 s8day16 CMDB拾遗之Agent开发.mp4
+│      【第3课】03 s8day16 CMDB拾遗之API开发.mp4
+│      【第4课】04 s8day16 Django扩展之自定义HttpRequest.mp4
+│      【第5课】05 s8day16 监控系统架构分析.mp4
+│      【第6课】06 s8day16 监控系统之Agent开发.mp4
+│      【第7课】07 s8day16 监控系统之数据库表的设计一.mp4
+│      【第8课】08 s8day16 监控系统之数据库表的设计二.mp4
+│      【第9课】09 s8day16 监控系统之数据库表的设计三.mp4
+│      
+└─Day17-Python自动化开发基础 项目实战-任务编排
+        【第1课】01 s8day17 本节内容简介.mp4
+        【第2课】02 s8day17 任务编排系统架构.mp4
+        【第3课】03 s8day17 任务编排后台管理功能介绍一.mp4
+        【第4课】04 s8day17 任务编排后台管理功能介绍二.mp4
+        【第5课】05 s8day17 任务编排后台管理之任务列表.mp4
+        

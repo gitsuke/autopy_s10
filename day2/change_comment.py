@@ -1,5 +1,6 @@
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
+
 import sys
 
 if '-r' in sys.argv:
@@ -9,9 +10,9 @@ if '-r' in sys.argv:
 
 f = open('passwd','r+')
 
-while True:
-	line = f.readline()
-	if line == '':break
+for line in f:
+	if line == '':
+		break
 	else:
 		print '--> ',f.tell()
 		if find_str in line:
@@ -19,7 +20,7 @@ while True:
 			last_pos = f.tell() - len(line)
 			f.seek(last_pos)
 			print '-->last_pos: ',f.tell()
-			new_line = line.replace(find_str,new_str)
-			print '-->new_line: ',new_line
+            new_line = line.replace(find_str,new_str)
+            print '-->new_line: ',new_line
 			f.write(new_line)
 f.close()
