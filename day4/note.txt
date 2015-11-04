@@ -1,0 +1,50 @@
+
+函数
+    def func_name():
+        code
+
+    def func_name(arg1,arg2,arg3='data'):
+        code
+
+    函数中默认可以访问全局变量，默认不能修改，global声明后可以修改
+    函数中可以直接修改全局的列表、字典、集合的复杂数据类型
+    return 函数的结果和结束
+
+迭代
+    a = iter(list)  迭代生成器
+    a.next()
+    节省内存：只记录迭代的开头和结尾、当前位置
+    和函数一起使用：可以使函数中断并保存函数的中断状态，
+    yield 可以减少程序阻塞
+
+re 正则表达式
+    re.match
+    re.search
+    re.findall
+    re.split
+    re.sub
+    \d+ 数字
+    .+  任意字符
+    *   重复0个或多个前一个字符
+    ?   0 or1
+    \s  space
+    \S  not space
+    \w  [0-9a-zA-Z]
+
+序列化 # 将内存数据实现持久化
+    json/Pickle
+    json    跨语言，只支持列表、字典、集合
+    pickle  只支持Python，支持Python所有数据类型
+
+内置函数
+    lambda  匿名函数
+    map, zip, filter, reduce
+    a = [1,2,3,4,5,6,7]
+    filter(lambda x:x>5,a)  -->[6,7]
+    zip(a,b) 合并两个序列，截取最短长度的
+    map(None,a,b)   长度不等的，使用None填充
+    reduce(function, sequence[, initial]) -> value
+    reduce(lambda x, y: x+y, [1, 2, 3, 4, 5])
+    calculates ((((1+2)+3)+4)+5)
+
+装饰器（语法糖）
