@@ -7,10 +7,13 @@ def login(func):
     user = raw_input('login: ').split()
     if user == 'alex':
         print '---welcome login---'
+        print func
         return func
 
-def task1():
-    print 'run task'
+@login
+def task1(name):
+    print 'run task',name
+    return name
 
 def task2():
     print 'run task 2'
@@ -18,7 +21,7 @@ def task2():
 def task3():
     print 'run task 3'
 
-task1()
+task1('haha')
 task2()
 task3()
 
